@@ -1,8 +1,8 @@
 {
   "build": 32,
-  "version": 3,
-  "url": "https://github.com/codingmalkio/forevertail-ota/releases/download/ota-32-v3/ota-32-v3-android.zip",
+  "version": 5,
+  "url": "https://github.com/codingmalkio/forevertail-ota/releases/download/ota-32-v5/ota-32-v5-android.zip",
   "message": "",
-  "commit": "2f2388d",
-  "createdAt": "2026-10-01T02:56:58.301Z"
+  "commit": "8bc9297",
+  "createdAt": "2026-10-03T09:00:21.962Z"
 }
